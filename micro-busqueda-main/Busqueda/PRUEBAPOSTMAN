@@ -3,3 +3,7 @@
     "precioMax": 15
 }
 
+INSERT INTO producto (nombre, aroma, descripcion, marca, ml, precio) VALUES
+('Perfume Fresa', 'Fresa', 'Perfume con aroma a fresa', 'Marca X', 50, 15.99),
+('Perfume Vainilla', 'Vainilla', 'Perfume con aroma a vainilla', 'Marca Y', 100, 25.50),
+('Crema Hidratante', 'Sin Aroma', 'Crema para piel seca', 'Marca Z', 200, 10.99);
